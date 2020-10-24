@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  ,
+  "users":[
+    {"id":1,"username":"mmugisha","name":"Mugisha Maurice","email":"mmugisha@email.com", "phone":"+250787161944"},
+    {"id":2,"username":"toniatonie","name":"Tonia Nkeangnyi","email":"tonia@email.com", "phone":"+250787161945"}
+    {"id":3,"username":"smusoner","name":"Songa Chris","email":"songa@email.com", "phone":"+250787161954"}
+    {"id":4,"username":"gnn","name":"Geoffrey Njogu","email":"jeff@email.com", "phone":"+250787861944"}
+  ],
 }
