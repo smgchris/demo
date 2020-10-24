@@ -11,7 +11,6 @@
   "profile": {
     "name": "typicode"
   },
-  ,
   "users":[
     {"id":1,"username":"mmugisha","name":"Mugisha Maurice","email":"mmugisha@email.com", "phone":"+250787161944"},
     {"id":2,"username":"toniatonie","name":"Tonia Nkeangnyi","email":"tonia@email.com", "phone":"+250787161945"}
